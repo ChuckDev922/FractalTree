@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <userSettings>
+    <Fractal.Properties.Settings>
+      <setting
+        name="Depth"
+        serializeAs="String">
+        <value>7</value>
+      </setting>
+      <setting
+        name="Angle"
+        serializeAs="String">
+        <value>18</value>
+      </setting>
+      <setting
+        name="Length"
+        serializeAs="String">
+        <value>157</value>
+      </setting>
+      <setting
+        name="Randomness"
+        serializeAs="String">
+        <value>8</value>
+      </setting>
+      <setting
+        name="EndLeaves"
+        serializeAs="String">
+        <value>True</value>
+      </setting>
+      <setting
+        name="EndLeavesColor"
+        serializeAs="String">
+        <value>Color [LightGreen]</value>
+      </setting>
+      <setting
+        name="ThreeBranches"
+        serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting
+        name="RandomThirdBranch"
+        serializeAs="String">
+        <value>True</value>
+      </setting>
+    </Fractal.Properties.Settings>
+  </userSettings>
+</configuration>
